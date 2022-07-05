@@ -90,3 +90,5 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+<a href="https://wakatime.com/badge/github/kilashoww/Product-preview-card-component"><img src="https://wakatime.com/badge/github/kilashoww/Product-preview-card-component.svg" alt="wakatime"></a>
