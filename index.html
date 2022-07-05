@@ -15,9 +15,6 @@
       href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap"
       rel="stylesheet"
     />
-
-    <!-- displays site properly based on user's device -->
-
     <link
       rel="icon"
       type="image/png"
@@ -29,10 +26,16 @@
     <title>Frontend Mentor | Product preview card component</title>
   </head>
   <body>
-    <header>
+    <header></header>
+    <main>
       <section class="backgroundColor">
         <div class="container">
-          <img class="product-icon" src="http://placehold.it/images/image-product-desktop.jpg" alt="product preview" />
+          <div class="image-container">
+            <picture>
+              <source media="(max-width: 430px)" srcset="./images/image-product-mobile.jpg">
+              <img class="product-img" src="./images/image-product-desktop.jpg" alt="product preview">
+            </picture>
+          </div>
           <div class="category">PERFUME</div>
           <div class="title">Gabrielle Essence Eau De Parfum</div>
           <div class="description">
@@ -43,9 +46,9 @@
           <div class="StrikPrice"><del>$169.99</del></div>
           <img class="cart-icon" src="/images/icon-cart.svg" alt="icon-cart" />
           <button class="btn" type="button">Add to cart</button>
-        </div>
+
       </section>
-    </header>
+    </main>
     <footer>
       <div class="attribution">
         Challenge by
