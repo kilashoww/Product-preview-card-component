@@ -50,4 +50,5 @@ The users should be able to:
 You can support me by offering me a coffee or more on https://www.buymeacoffee.com/artdevivre.<br>
 So as you want: 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ I looove so much coffee :yum: :laughing:
 
+
 <a href="https://wakatime.com/badge/github/kilashoww/Product-preview-card-component"><img src="https://wakatime.com/badge/github/kilashoww/Product-preview-card-component.svg" alt="wakatime"></a>
